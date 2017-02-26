@@ -251,16 +251,16 @@ function create_config( )
     "sh",
     "serverinfo"
     },
-    sudo_users = {184018132},--Sudo users
+    sudo_users = {147931082},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Electrovirus national security bot🌐
- E N S
+    about_text = [[MineBot the official group manger bot🌐
+MineBot
 
 Sudo
-▕ Electrovirus▕
+▕ MaKeRMaN▕
 
-Github
-▕ https://github.com/Electrovirus/E-N-S.git
+Channel
+ | @MineNetwork
 
 ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
 ]],
